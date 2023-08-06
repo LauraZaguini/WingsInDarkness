@@ -1,0 +1,1 @@
+text = "[spr_keys,1,0] or [spr_keys,7,0] to TRANSFORM \n Avoid sun lights! [spr_morcego_run, 0, 1]"

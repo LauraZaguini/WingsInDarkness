@@ -1,0 +1,1 @@
+text = "[spr_keys,13,0] or [spr_keys,14,0] - to PUSH the lever"

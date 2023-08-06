@@ -1,0 +1,1 @@
+text = "[spr_keys,4,0]/[spr_keys,5,0] or [spr_keys,10,0]/[spr_keys,11,0] - to MOVE \n [spr_keys,2,0]/[spr_keys,0,0] to JUMP"

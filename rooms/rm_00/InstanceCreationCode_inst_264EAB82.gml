@@ -1,0 +1,1 @@
+text = "Press the button to open the door [spr_button, 0, .1]"

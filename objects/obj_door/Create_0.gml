@@ -1,0 +1,5 @@
+///@desc Variaveis
+open = false;
+
+/// CRIACAO DE UMA VARIAVEL QUE ARMAZENE O ID DAS PAREDES QUE FICARAM NO LUGAR DA COLISAO DA PORTA
+parede = noone
