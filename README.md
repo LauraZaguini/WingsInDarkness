@@ -10,5 +10,5 @@ Always keep the program and the repository clone up to date.
 To use the project in Gamemaker Studio 2, just use CMD for that.
 
 ```
-git clone https://github.com/LauraZaguini/wings_in_darkness.git
+git clone (https://github.com/LauraZaguini/WingsInDarkness.git)
 ```
