@@ -1,5 +1,5 @@
 # Wings in Darkness
-Wings in Darkness, game created for My First Game Jam: Summer 2023!
+Wings in Darkness, game created for [My First Game Jam: Summer 2023](https://itch.io/jam/my-first-game-jam-summer-2023)!
 
 ###### To do this, just create a clone for your Gamemaker Studio 2 folder.
 
